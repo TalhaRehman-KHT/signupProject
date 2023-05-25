@@ -1,0 +1,27 @@
+.btn{
+    background-color: #4CAF50 !important;
+    border: none;
+}
+
+#workspace{
+    width: 130% !important;
+}
+
+.img2{
+    padding: 28px 2px;
+}
+
+#personspan{
+    padding: 10px;
+    margin: 5px;
+}
+
+#personscontainer{
+    background: transparent ;
+    padding: 10px;
+    margin: 5px;
+}
+
+#letsgo{
+    margin-top: 19px;
+}

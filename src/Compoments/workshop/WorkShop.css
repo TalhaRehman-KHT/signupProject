@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: local("Gilroy-Medium"),
+    url("../../assets/fonts/Fonts/Gilroy/Gilroy-Bold.ttf") format("opentype");
+}
+* {
+  font-family: "Gilroy-Medium";
+}
+
+.s-span {
+  opacity: 0.5;
+}
+
+.box {
+  display: flex;
+  padding: 10px;
+}
+
+#text-2{
+  border: 1px solid rgba(128, 128, 128, 0.1);
+}
+
+.boxer {
+  border: 0.5px solid greenyellow;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.text {
+  margin: 10px;
+  padding: 10px;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 15px;
+}
+
+.btn {
+  padding: 15px;
+  border-radius: 15px !important;
+}
+
+.right {
+  padding: 65px;
+  width: 559px;
+  background-color: #ffff;
+}
+
+.imges-wrap{
+    padding: 20px;
+}

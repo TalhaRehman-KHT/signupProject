@@ -1,0 +1,168 @@
+@font-face {
+    font-family: "Gilroy-Medium";
+    src: local("Gilroy-Medium"),
+      url("../../assets/fonts/Fonts/Gilroy/Gilroy-Bold.ttf") format("opentype");
+  }
+  * {
+    font-family: "Gilroy-Medium";
+  }
+  .logo-img {
+    width: 91.28px;
+    height: 23.91px;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .img-2nd {
+    padding-top: 35px;
+  }
+  
+  .box-one {
+    padding: 26px 156px;
+    margin-left: -121px;
+  }
+  .container {
+    background-color: #f9f9f9;
+  }
+  .singup-form {
+    padding: 54px;
+    background: #ffff;
+    width: 557px;
+  }
+  
+  .input-icons {
+      transform: translate(-26px, 35px);
+  }
+  .input-icons-2{
+      transform: translate(-47px, 35px);
+  }
+  .input-icons-3{
+      transform: translate(-110px, 35px);
+  }
+  .heading {
+    padding-top: 44px;
+    width: 342px;
+    height: 144px;
+    font-family: "Reckless Neue";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 60px;
+    line-height: 72px;
+    color: #1c274c;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  
+    /* Inside auto layout */
+  
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+  }
+  
+  .img2 {
+    position: absolute;
+    left: 2.45%;
+    right: 2.5%;
+    top: 10.35%;
+    bottom: 10.42%;
+  
+    background: #1c274c;
+  }
+  
+  .img2 {
+    position: relative;
+    width: 322px;
+    height: 299px;
+    left: 0px;
+    top: 0px;
+    background: #f9f9f9;
+  }
+  
+  /*  */
+  
+  .heading-one {
+    width: 293px;
+  }
+  
+  .s-span {
+    opacity: 0.3;
+  }
+  
+  .sing-last-input {
+    opacity: 0.3;
+  }
+  .form-control {
+    opacity: 0.5;
+    background-color: #f7f7f7;
+    width: 100% !important;
+    padding: 10px;
+  }
+  .custom-indent{
+      text-indent: 2em; 
+  }
+  .custom-indent-2{
+      text-indent: 2em;
+  }
+  .container {
+    margin-top: 50px;
+  }
+  
+  .login {
+    color: #4caf50;
+  }
+  .form {
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.2);
+  }
+  .last-p {
+    padding: 10px;
+  }
+  
+  .btn {
+    width: 100% !important;
+    padding: 10px;
+  }
+  
+  /* h2{
+      text-align: center;
+      margin-bottom: 20px;
+    } */
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .showpassword{
+    margin-left: 10px;
+  }
+  
+  .btn-primary {
+    width: 100%;
+  }
+  .forgot-password{
+    text-decoration: none;
+    color: #4caf50;
+    float: right;
+    padding: 5px;
+    margin-bottom: 13px;
+  }
+  .login{
+    text-decoration: none;
+  }
+
+  .singup-form{
+    padding: 80px;
+    background: #ffff;
+    width: 557px;
+  }
+  
