@@ -12,7 +12,7 @@ function Workspace() {
         <div className="row">
           <div className="col-md-6">
             <div className="img">
-              <img src={Logo} alt="" />
+              <img className="upimg" src={Logo} alt="" />
             </div>
             <div className="img2">
               <img src={bodypic} alt="" />

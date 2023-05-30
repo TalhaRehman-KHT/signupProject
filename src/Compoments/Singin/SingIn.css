@@ -9,9 +9,7 @@
   .logo-img {
     width: 91.28px;
     height: 23.91px;
-  
     /* Inside auto layout */
-  
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -140,6 +138,8 @@
   
   label {
     font-weight: bold;
+    padding: 2px;
+    opacity: 0.8;
     margin-top: 10px;
   }
   .showpassword{

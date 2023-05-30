@@ -12,7 +12,7 @@ function WrokShop() {
         <div className="row">
           <div className="col-md-6">
             <div className="imges-wrap">
-              <img src={SideImg} alt="" />
+              <img className="project-img" src={SideImg} alt="" />
               <img src={SideImg2} alt="" />
             </div>
           </div>

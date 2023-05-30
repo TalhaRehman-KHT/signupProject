@@ -43,10 +43,14 @@
 
 .right {
   padding: 65px;
-  width: 559px;
-  background-color: #ffff;
+    width: 657px;
+    background-color: #ffff;
 }
 
 .imges-wrap{
     padding: 20px;
+}
+
+.project-img{
+  margin-top: -510px;
 }
